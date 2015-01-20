@@ -7,3 +7,5 @@ A collection of small Swift programs... The road to iPhone apps
 -- ISBNValidation shows how to implement a custom extension for a String. In this case the we add 'subscript' functionality to a string!
 
 -- Objects.swift shows basic object creation, inheritance and overrides
+
+-- JSON.swift shows a basic URL request to a json object and parses the data
